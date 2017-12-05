@@ -7,4 +7,3 @@ final additional line
 another line added external
 test 1
 yet another line
-test3
